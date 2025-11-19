@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/logo2.png)
+![Logo of the project](https://github.com/touridev/declare-to-where/blob/master/public/readme_images/logo2.png)
 
 
 ## Where To Declare
@@ -42,32 +42,32 @@ Here are the technologies used in this project.
 
 ## How to use
 ### 1 - Log into the app. You can log in or register if you prefer.
-![Login Screen](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/login_screen.png)
+![Login Screen](https://github.com/touridev/declare-to-where/blob/master/public/readme_images/login_screen.png)
 
 ### 2 - In the app, you can organize yourself like:
-![Home Screen](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/initial_page.png)  
+![Home Screen](https://github.com/touridev/declare-to-where/blob/master/public/readme_images/initial_page.png)  
 
 ### 2.1 - Creating a new transaction of receipt or spent:
-![New Card Screen](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/new_card.png)  
-![New Card Screen](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/new_card_2.png)  
+![New Card Screen](https://github.com/touridev/declare-to-where/blob/master/public/readme_images/new_card.png)  
+![New Card Screen](https://github.com/touridev/declare-to-where/blob/master/public/readme_images/new_card_2.png)  
 
 ### 2.2 - Checking if that week has something to spent or to receipt:
-![Home Screen Reminder](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/initial_page_screen.png)  
+![Home Screen Reminder](https://github.com/touridev/declare-to-where/blob/master/public/readme_images/initial_page_screen.png)  
 
 ### 2.3 - Checking your activities in the calendar:
-![Calendar screen](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/calendar.png)  
+![Calendar screen](https://github.com/touridev/declare-to-where/blob/master/public/readme_images/calendar.png)  
 
 ### 2.4 - Filtering the receipt of the month:
-![Home Screen Filtering](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/tributes_opened.png) 
+![Home Screen Filtering](https://github.com/touridev/declare-to-where/blob/master/public/readme_images/tributes_opened.png) 
 
 ### 3 - The system has a specific calc if you are filtering by juridic person.
-![Home Screen Filtering](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/juridic_person_relatory.png) 
+![Home Screen Filtering](https://github.com/touridev/declare-to-where/blob/master/public/readme_images/juridic_person_relatory.png) 
 
 ### 3 - And a specific calc to physical person or if you're filtering your general cards.
-![Home Screen Filtering](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/general_list_relatory.png) 
+![Home Screen Filtering](https://github.com/touridev/declare-to-where/blob/master/public/readme_images/general_list_relatory.png) 
 
 ### 4 - And Thats it!!! You can print your relatory and send it to your accountant!
-![Home Screen Filtering](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/pdf_screen.png) 
+![Home Screen Filtering](https://github.com/touridev/declare-to-where/blob/master/public/readme_images/pdf_screen.png) 
 
 
 ## Features
@@ -79,9 +79,9 @@ Here are the technologies used in this project.
 
 
 ## Links
-  - Repository: https://github.com/Lucasdfg07/where-to-declare
+  - Repository: https://github.com/touridev/declare-to-where
     - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueirafernandes07@gmail.com directly instead of using issue tracker. 
+      ftorjob@gmail.com directly instead of using issue tracker. 
       We value your effort to improve the security and privacy of this project!
 
   ## Versioning
@@ -91,8 +91,8 @@ Here are the technologies used in this project.
 
   ## Authors
   
-  * **Lucas Siqueira Fernandes**: @Lucasdfg07 (https://github.com/Lucasdfg07)
+  * **Lucas Siqueira Fernandes**: @touridev (https://github.com/touridev)
 
-  Please follow github and join us!
+  Please follow github and join me!
   Thanks to visiting me and good coding!
 
